@@ -1,3 +1,4 @@
 .main_container {
     text-align: center;
+    user-select: none;
 }
